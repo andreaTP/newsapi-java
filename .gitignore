@@ -1,0 +1,9 @@
+apiToken.sh
+.gradle
+.settings
+.vscode
+bin
+build
+
+.classpath
+.project
